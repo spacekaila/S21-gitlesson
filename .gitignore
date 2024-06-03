@@ -1,2 +1,6 @@
 *.npy
+<<<<<<< HEAD
 .ipynb_checkpoints
+=======
+.ipynb_checkpoints
+>>>>>>> 17f8ed367849dbd06e0c7c70c4cc2df747ad2920
